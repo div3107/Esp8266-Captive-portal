@@ -1,5 +1,4 @@
 # Esp8266-Captive-portal
-# ESP8266 WiFi Captive Portal 2.0
 
 ## Disclaimer
 This project is for testing and educational purposes. Use it only against your own networks and devices. I don't take any responsibility for what you do with this program.
